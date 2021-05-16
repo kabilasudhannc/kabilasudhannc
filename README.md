@@ -1,5 +1,10 @@
 ### Hi there 👋
 Personal Website: https://mywebsite.technicalbot.repl.co/
+
+- 🔭 I’m currently working on Machine Learning Projects
+- 🌱 I’m currently learning Artificial Intalligance
+- 🤔 I’m looking for help with My Python Projects 
+
 <!--
 **kabilasudhannc/kabilasudhannc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
