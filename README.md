@@ -2,7 +2,7 @@
 ![Kabilasudhan Nc - Banner](https://github.com/kabilasudhannc/kabilasudhannc/blob/main/assets/banner.gif)
 
 ### Hi there 👋
-Personal Website: https://mywebsite.technicalbot.repl.co/
+Personal Website: https://technicalbot.netlify.app/
 
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning Artificial Intalligance
