@@ -1,3 +1,6 @@
+<!-- Banner -->
+![Kabilasudhan Nc - Banner](https://github.com/nive927/nive927/blob/main/assets/banner.gif)
+
 ### Hi there 👋
 Personal Website: https://mywebsite.technicalbot.repl.co/
 
