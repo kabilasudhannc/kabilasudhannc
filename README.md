@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Kabilasudhan Nc - Banner](https://github.com/)
+![Kabilasudhan Nc - Banner](https://github.com/kabilasudhannc/kabilasudhannc/tree/main/assets/banner.gif)
 
 ### Hi there 👋
 Personal Website: https://mywebsite.technicalbot.repl.co/
