@@ -4,9 +4,11 @@ Personal Website: https://mywebsite.technicalbot.repl.co/
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning Artificial Intalligance
 - 🤔 I’m looking for help with My Python Projects 
+- 💬 Ask me about Python, Html & Machine and Deep Learning
+- 📫 How to reach me: kabilanncc@gmail.com
 
 <details>
-  <summary>Click here for <b>Github Stats</b>  :zap:</summary>
+  <summary>Click here for <b>Github Stats</b>  🤖</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=cobalt&locale=en" alt="Kabilasudhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabilasudhannc&" alt="kabilasudhan" /></p>
