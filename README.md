@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Kabilasudhan Nc - Banner](https://github.com/nive927/nive927/blob/main/assets/banner.gif)
+![Kabilasudhan Nc - Banner](https://github.com/)
 
 ### Hi there 👋
 Personal Website: https://mywebsite.technicalbot.repl.co/
