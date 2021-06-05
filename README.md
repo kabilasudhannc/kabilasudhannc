@@ -37,7 +37,7 @@ Personal Website: https://technicalbot.netlify.app/
 
 <details>
   <summary>Click here for <b>Github Stats</b>  🤖</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=cobalt&locale=en" alt="Kabilasudhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=radical=en" alt="Kabilasudhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabilasudhannc&theme=highcontrast" alt="kabilasudhan" /></p>
 
