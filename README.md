@@ -42,7 +42,7 @@ Personal Website: https://technicalbot.netlify.app/
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabilasudhannc&theme=radical" alt="kabilasudhan" /></p>
 
 <a href="https://github.com/kabilasudhannc">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabilasudhannc"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilasudhannc&layout=compact"/>
 </details>
 
 <!--
