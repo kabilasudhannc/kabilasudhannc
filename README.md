@@ -43,12 +43,11 @@ Personal Website: https://technicalbot.netlify.app/
 
 <a href="https://github.com/kabilasudhannc">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilasudhannc&layout=compact"/>
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabilasudhannc)](https://github.com/anuraghazra/github-readme-stats)
 </details>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/kabilasudhannc">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabilasudhannc"/>
-</details>
+
 
 <!--
 **kabilasudhannc/kabilasudhannc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
