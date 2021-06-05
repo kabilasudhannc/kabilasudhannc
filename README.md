@@ -37,12 +37,17 @@ Personal Website: https://technicalbot.netlify.app/
 
 <details>
   <summary>Click here for <b>Github Stats</b>  🤖</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=radical=en" alt="Kabilasudhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=gradient=en" alt="Kabilasudhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabilasudhannc&theme=radical" alt="kabilasudhan" /></p>
 
 <a href="https://github.com/kabilasudhannc">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilasudhannc&layout=compact"/>
+</details>
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/kabilasudhannc">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kabilasudhannc"/>
 </details>
 
 <!--
