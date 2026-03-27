@@ -1,20 +1,20 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ██╗██╗      █████╗ 
-██║ ██╔╝██╔══██╗██╔══██╗██║██║     ██╔══██╗
-█████╔╝ ███████║██████╔╝██║██║     ███████║
-██╔═██╗ ██╔══██║██╔══██╗██║██║     ██╔══██║
-██║  ██╗██║  ██║██████╔╝██║███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝
-```
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kabilasudhan+NC+%F0%9F%91%8B;Full+Stack+Engineer+(Backend+Focused);Distributed+Systems+%7C+Microservices;Node.js+%7C+NestJS+%7C+Django+%7C+AWS;Building+scalable+backends+%E2%9A%A1" alt="Typing SVG" />
 
-### Full Stack Engineer · Backend Focused · Distributed Systems
+<br/>
 
+<!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-technicalbot.netlify.app-0f172a?style=for-the-badge&logo=netlify&logoColor=white)](https://technicalbot.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kabilasudhannc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabilasudhannc)
 [![Email](https://img.shields.io/badge/Email-kabilanncc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabilanncc@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Bengaluru,_India-10b981?style=for-the-badge)](https://maps.google.com/?q=Bengaluru)
+[![Location](https://img.shields.io/badge/📍_Bengaluru,_India-10b981?style=for-the-badge)](#)
+
+<br/>
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=kabilasudhannc&label=Profile+Views&color=00e5a0&style=flat)
 
 </div>
 
@@ -72,7 +72,25 @@ Currently leading a team of **6 engineers** at **Cytrusst Intelligence** to buil
 
 ---
 
-## 📊 Impact by the Numbers
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilasudhannc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kabilasudhannc&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Impact by the Numbers
 
 <div align="center">
 
@@ -115,24 +133,65 @@ Full stack architecture across Node.js/Django microservices with React dashboard
 > `AWS EKS` · `Kubernetes` · `Jenkins` · `GitHub Actions`
 
 Owned end-to-end migration from a legacy monolith to cloud-native microservices on AWS.
-- **4x increase** in release frequency
-- **60% faster** deployments via automated CI/CD pipelines
-- **30% reduction** in infrastructure costs
+- **4x increase** in release frequency · **60% faster** deployments · **30% reduction** in infrastructure costs
 
 ---
 
 ## 💼 Experience
 
 ```
-Cytrusst Intelligence Pvt Ltd       Full Stack Engineer (Backend Focused)   Oct 2024 – Present
-Cycatz Technologies Pvt Ltd         Full Stack Engineer, Associate          Jan 2022 – Oct 2024
+Cytrusst Intelligence Pvt Ltd    │  Full Stack Engineer (Backend Focused)  │  Oct 2024 – Present
+Cycatz Technologies Pvt Ltd      │  Full Stack Engineer, Associate          │  Jan 2022 – Oct 2024
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Snake
 
-I'm always open to interesting backend challenges, system design discussions, or collaboration on impactful products.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kabilasudhannc/kabilasudhannc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kabilasudhannc/kabilasudhannc/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kabilasudhannc/kabilasudhannc/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ Click to setup the contribution snake</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo with this content:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kabilasudhannc
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -145,5 +204,5 @@ I'm always open to interesting backend challenges, system design discussions, or
 ---
 
 <div align="center">
-  <sub>⚙️ Built with precision. Deployed with confidence.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=555555&center=true&vCenter=true&width=500&lines=⚙️+Built+with+precision.+Deployed+with+confidence." alt="footer" />
 </div>
