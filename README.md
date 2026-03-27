@@ -1,9 +1,8 @@
-<div align="center">
+<img width="1440" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ac89e52-d4ff-4a49-b1c4-dc7c7c79161e" /><div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kabilasudhan+NC+%F0%9F%91%8B;Full+Stack+Engineer+(Backend+Focused);Distributed+Systems+%7C+Microservices;Node.js+%7C+NestJS+%7C+Django+%7C+AWS;Building+scalable+backends+%E2%9A%A1" alt="Typing SVG" />
+<img width="1440" height="1024" alt="image" src="https://github.com/user-attachments/assets/04ee2895-b793-4874-a65c-ec8391e23d59" />
 
-<br/>
 
 <!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-technicalbot.netlify.app-0f172a?style=for-the-badge&logo=netlify&logoColor=white)](https://technicalbot.netlify.app)
