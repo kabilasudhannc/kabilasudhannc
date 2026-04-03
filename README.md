@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-technicalbot.netlify.app-0f172a?style=for-the-badge&logo=netlify&logoColor=white)](https://technicalbot.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kabilasudhannc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabilasudhannc)
 [![Email](https://img.shields.io/badge/Email-kabilanncc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabilanncc@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Bengaluru,_India-10b981?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-10b981?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
@@ -94,12 +94,12 @@ Currently leading a team of **6 engineers** at **Cytrusst Intelligence** to buil
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### AWS Services I Work With Daily
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### Architecture & Practices
 ![Microservices](https://img.shields.io/badge/Microservices-00E5A0?style=flat-square)
@@ -114,15 +114,15 @@ Currently leading a team of **6 engineers** at **Cytrusst Intelligence** to buil
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilasudhannc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabilasudhannc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9&cache_seconds=1800" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilasudhannc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kabilasudhannc&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kabilasudhannc&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0" alt="GitHub Streak" />
 
 </div>
 
@@ -283,5 +283,5 @@ jobs:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=555555&center=true&vCenter=true&width=500&lines=⚙️+Built+with+precision.+Deployed+with+confidence." alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00E5A0&center=true&vCenter=true&width=600&lines=Built+with+precision.+Deployed+with+confidence.;Always+learning.+Always+shipping." alt="footer" />
 </div>
